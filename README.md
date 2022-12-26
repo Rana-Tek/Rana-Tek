@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning😁.
+🔭 I’m currently looking a good chance as Front-end Developer🌱
+
 
 <!--
 **Rana-Tek/Rana-Tek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
