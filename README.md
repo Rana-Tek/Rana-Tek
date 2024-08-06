@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">A fullstack developer from Turkey</h3>
 
-- I’m currently working on react, javascript and python.
+- I’m currently working on react,django, javascript and python.
 
 - 🌱 I’m currently learning ** c++**
 
